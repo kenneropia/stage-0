@@ -1,5 +1,6 @@
 const express = require("express");
 const cors = require("cors");
+const compression = require("compression");
 require("dotenv").config(); // Load environment variables
 
 const app = express();
@@ -7,6 +8,7 @@ const port = process.env.PORT || 3000;
 
 // Middleware
 app.use(cors());
+app.use(compression());
 app.use(express.json());
 
 // Environment variables
