@@ -50,10 +50,8 @@ Ensure you have [Node.js](https://nodejs.org/) installed.
 ```
 
 ## Deployment
-The API is publicly accessible at:
-```
-<your-deployment-url>
-```
+The API is publicly accessible at: [https://stage-0-o8pd.onrender.com/](https://hng.tech/hire/nodejs-developers)
+ 
 
 ## Backlink
 [Hire Node.js Developers](https://hng.tech/hire/nodejs-developers)
